@@ -89,4 +89,10 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyosisol&show_icons=true&locale=en&layout=compact" alt="eyosisol" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyosisol&show_icons=true&locale=en" alt="eyosisol" /></p>
+
+## <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyosisol&" alt="eyosisol" /></p>
+
 Let's make the web smarter, one project at a time!
