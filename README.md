@@ -40,8 +40,6 @@
 
 ### [VERSEWise](https://versewise.io)
 
-<img src="C:\Users\asus\Downloads\Telegram Desktop\photo_2025-01-21_17-05-32.jpg(https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877" alt="Profile Image" width="150" />
-
 https://github.com/VerseWise/verse-wise-web-app
 
 An AI chatbot offering Biblical wisdom, powered by:
@@ -51,15 +49,15 @@ An AI chatbot offering Biblical wisdom, powered by:
 - RabbitMQ for syncing vector database updates
 - Redis for efficient context management
 
-**Tech Stack:** React.js, Flask, RabbitMQ, Redis
+**Tech Stacks Used:** React.js, Flask, RabbitMQ, Redis
 
 ---
 
 ## 🏆 Achievements
 
 - **HackAddis2024 Winner:** Built VERSEWise, an AI chatbot for Biblical topics.
-- Completed certifications in **Supervised Learning** and **Advanced Algorithms** from Stanford University through DeepLearning.AI.
-- **Cisco CCNA Networking Certified.**
+  <!-- - Completed certifications in **Supervised Learning** and **Advanced Algorithms** from Stanford University through DeepLearning.AI. -->
+  <!-- - **Cisco CCNA Networking Certified.** -->
 
 ---
 
@@ -68,8 +66,8 @@ An AI chatbot offering Biblical wisdom, powered by:
 - **Electrical and Computer Engineering**  
   Addis Ababa University, Class of 2025
 
-- **The Odin Project:** Full-Stack JavaScript  
-  **FreeCodeCamp:** JavaScript Algorithms and Data Structures
+- **The Odin Project:** Full-Stack JavaScript
+  <!-- **FreeCodeCamp:** JavaScript Algorithms and Data Structures -->
 
 ---
 
@@ -79,14 +77,14 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ### **Contact Me**
 
-- **Email:** [destanathnaelataro@gmail.com](mailto:destanathnaelataro@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nathnael-desta](https://linkedin.com/in/nathnael-desta)
-- **GitHub:** [github.com/nathnael-desta](https://github.com/nathnael-desta)
+- **Email:** [eyosila123@gmail.com](mailto:eyosila123@gmail.com)
+- **LinkedIn:** [linkedin.com/in/eyosias-solomon-lale-2b5080216/](https://www.linkedin.com/in/eyosias-solomon-lale-2b5080216/)
+- **GitHub:** [github.com/EyosiSol](https://github.com/EyosiSol)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathnael-desta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael-desta&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EyosiSol&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&layout=compact&theme=radical)
 
 ---
 
