@@ -78,7 +78,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ---
 
-## <img src="https://raw.githubusercontent.com/EyosiSol/EyosiSol/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/EyosiSol/EyosiSol/blob/output/snake.svg)
 
 ### **Contact Me**
 
