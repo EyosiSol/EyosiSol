@@ -76,6 +76,10 @@ An AI chatbot offering Biblical wisdom, powered by:
 
 Feel free to reach out to me for collaboration, questions, or just to say hi!
 
+---
+
+## <img src="https://raw.githubusercontent.com/EyosiSol/EyosiSol/output/snake.svg" alt="Snake animation" />
+
 ### **Contact Me**
 
 - **Email:** [eyosila123@gmail.com](mailto:eyosila123@gmail.com)
