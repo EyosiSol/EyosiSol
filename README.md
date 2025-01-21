@@ -4,6 +4,7 @@
 
 <h4>I’m a dedicated Web Developer, UI/UX Designer, and Machine Learning Enthusiast with a strong background in Electrical and Computer Engineering from Addis Ababa University. I specialize in designing seamless, user-centric interfaces that enhance the digital experience, combining creativity and functionality. I thrive on solving complex challenges and building impactful applications that bridge design and technology.</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosisol&label=Profile%20views&color=0e75b6&style=flat" alt="eyosisol" /> </p>
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=eyosisol" alt="eyosisol" />
