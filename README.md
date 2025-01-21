@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eyosias Solomon Solomon</h1>
+<h1>Hi 👋, I'm Eyosias Solomon Solomon</h1>
 
 ## 🚀 About Me
 
 <h3 align="center">I’m a dedicated Web Developer, UI/UX Designer, and Machine Learning Enthusiast with a strong background in Electrical and Computer Engineering from Addis Ababa University. I specialize in designing seamless, user-centric interfaces that enhance the digital experience, combining creativity and functionality. I thrive on solving complex challenges and building impactful applications that bridge design and technology.</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyosisol" alt="eyosisol" /></a> </p>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=eyosisol" alt="eyosisol" />
+</a> </p>
 
 ### **What I Love Working On:**
 
