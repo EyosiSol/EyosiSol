@@ -40,6 +40,8 @@
 
 ### [VERSEWise](https://versewise.io)
 
+<img src="C:\Users\asus\Downloads\Telegram Desktop\photo_2025-01-21_17-05-32.jpg(https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877" alt="Profile Image" width="150" />
+
 https://github.com/VerseWise/verse-wise-web-app
 
 An AI chatbot offering Biblical wisdom, powered by:
@@ -50,8 +52,6 @@ An AI chatbot offering Biblical wisdom, powered by:
 - Redis for efficient context management
 
 **Tech Stack:** React.js, Flask, RabbitMQ, Redis
-
-<img src="https://path-to-your-image.jpg](https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877" alt="Profile Image" width="150" />
 
 ---
 
