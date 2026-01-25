@@ -1,4 +1,4 @@
-<h1>Hi There Lurker👋, I'm Eyosias Solomon Solomon</h1>
+<h1>Hi There Lurker👋, I'm Eyosias Solomon </h1>
 
 ## 🚀 About Me
 
