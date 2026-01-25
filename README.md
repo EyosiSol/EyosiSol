@@ -1,8 +1,8 @@
-<h1>Hi There 👋, I'm Eyosias Solomon Solomon</h1>
+<h1>Hi There Lurker👋, I'm Eyosias Solomon Solomon</h1>
 
 ## 🚀 About Me
 
-<h4>I’m a dedicated Web Developer, UI/UX Designer, and Machine Learning Enthusiast with a strong background in Electrical and Computer Engineering from Addis Ababa University. I specialize in designing seamless, user-centric interfaces that enhance the digital experience, combining creativity and functionality. I thrive on solving complex challenges and building impactful applications that bridge design and technology.</h4>
+<h4>I’m a dedicated Web Developer and Designer with a strong background in Electrical and Computer Engineering from Addis Ababa University. I specialize in designing seamless, user-centric interfaces that enhance the digital experience, combining creativity and functionality. I thrive on solving complex challenges and building impactful applications that bridge design and technology.</h4>
 
 ---
 
@@ -15,10 +15,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyosiSol&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
-
-
-
-
 ---
 
 ### **What I Love Working On:**
@@ -29,8 +25,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning, Flutter**
-
+- 🌱 I’m currently learning **Mobile Application Development**
+ 
 - 👨‍💻 All of my projects are available at [https://eyosiassolomon.vercel.app/](https://eyosiassolomon.vercel.app/)
 
 - 💬 Ask me about **React, NextJs, Figma, PCB**
