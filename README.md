@@ -1,8 +1,8 @@
-<h1>Hi There Lurker👋, I'm Eyosias Solomon </h1>
+# Hey, There Lurker, I'm Eyosias Solomon 👋
 
-## 🚀 About Me
+### Full-Stack Developer · UI/UX Designer · ECE Engineer
 
-<h4>I’m a dedicated Web Developer and Designer with a strong background in Electrical and Computer Engineering from Addis Ababa University. I specialize in designing seamless, user-centric interfaces that enhance the digital experience, combining creativity and functionality. I thrive on solving complex challenges and building impactful applications that bridge design and technology.</h4>
+I build thoughtful digital experiences by combining **software engineering, product design, and hardware innovation**. From scalable web applications and intuitive interfaces to AI-powered tools, I enjoy turning complex problems into practical solutions.
 
 ---
 
@@ -19,93 +19,133 @@
 </div>
 ---
 
-### **What I Love Working On:**
+🌍 Addis Ababa, Ethiopia · 💻 Building for the web and beyond
 
-- Crafting intuitive and user-friendly UI/UX designs 🎨
-- Developing dynamic, responsive, and impactful web applications 🌐
-- Exploring and building AI-powered tools and smart solutions 🤖
+[🌐 Portfolio](https://eyosiassolomon.dev) · [💼 LinkedIn](https://www.linkedin.com/in/eyosias-solomon-lale/) · [📧 Email](mailto:eyosila123@gmail.com)· [📧 Email](mailto:eyosias.lale.official@gmail.com)
 
 ---
 
-- 🌱 I’m currently learning **Mobile Application Development**
- 
-- 👨‍💻 All of my projects are available at [https://eyosiassolomon.vercel.app/](https://eyosiassolomon.vercel.app/)
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **React, NextJs, Figma, PCB**
+- 🚀 Building full-stack applications with modern JavaScript and TypeScript technologies.
+- 🎨 Passionate about UI/UX design, accessible interfaces, and product thinking.
+- 🤖 Exploring AI-powered applications and intelligent software solutions.
+- ⚡ Bringing an Electrical and Computer Engineering perspective to software and embedded systems.
+- 🏆 **HackAddis 2024 winner** with VERSEWise, an AI chatbot focused on Biblical topics.
+- 🌱 Continuously learning, experimenting, and building things that solve real problems.
 
-- 📫 How to reach me **eyosila123@gmail.com**
+> I believe great software isn't just about writing code. It's about understanding problems, designing thoughtful solutions, and making technology useful.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/keyfyibel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keyfyibel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eyosias-solomon-lale-2b5080216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eyosias-solomon-lale-2b5080216/" height="30" width="40" /></a>
-<a href="https://instagram.com/_kefyibel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kefyibel" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
----
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,postgres,prisma,mongodb,redis" alt="Backend and database technologies" />
+</p>
 
-## 🌟 Projects
+### Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" alt="Design tools" />
+</p>
 
-### [VERSEWise](https://versewise.io)
-
-https://github.com/VerseWise/verse-wise-web-app
-
-An AI chatbot offering Biblical wisdom, powered by:
-
-- Real-time WebSockets for seamless interaction
-- Flask APIs for a robust CMS backend
-- RabbitMQ for syncing vector database updates
-- Redis for efficient context management
-
-**Tech Stacks Used:** React.js, Flask, RabbitMQ, Redis
+### Tools & Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,arduino,matlab,python" alt="Development and engineering tools" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-- **HackAddis2024 Winner:** Built VERSEWise, an AI chatbot for Biblical topics.
-  <!-- - Completed certifications in **Supervised Learning** and **Advanced Algorithms** from Stanford University through DeepLearning.AI. -->
-  <!-- - **Cisco CCNA Networking Certified.** -->
+### ✝️ [VERSEWise](https://versewise.io)
+**AI-powered Biblical wisdom chatbot**
+
+Built with React, Flask, RabbitMQ, and Redis, VERSEWise explores how AI can support meaningful conversations around Biblical topics.
+
+- Real-time messaging with WebSockets.
+- Backend APIs and content management.
+- RabbitMQ-powered synchronization for vector database updates.
+- Redis-based context management.
+
+**Achievement:** 🏆 HackAddis 2024 Winner
+
+### ⚡ [One Million Birtu](https://www.onemillionbirtu.org/)
+**Clean energy, innovation, and impact**
+
+A web platform supporting an organization working to expand access to clean, affordable, and reliable energy in Ethiopia.
+
+- Modern web development and content management.
+- Digital experiences supporting organizational communication.
+- Technology serving real-world development challenges.
+
+### ☕ [Explore My Portfolio](https://eyosiassolomon.dev)
+**More projects, experiments, and case studies**
+
+Explore my work across full-stack development, UI/UX design, and engineering. Visit my portfolio for project details, technology choices, and available demos.
 
 ---
 
-## 📚 Education
+## 📊 GitHub at a Glance
 
-- **Electrical and Computer Engineering**  
-  Addis Ababa University, Class of 2025
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyosiSol&theme=github_dark" alt="GitHub profile summary" width="100%" />
+</p>
 
-- **The Odin Project:** Full-Stack JavaScript
-  <!-- **FreeCodeCamp:** JavaScript Algorithms and Data Structures -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EyosiSol&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EyosiSol&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-## 🛠️ Let's Collaborate!
+## 🏆 Achievements & Education
 
-Feel free to reach out to me for collaboration, questions, or just to say hi!
+- 🥇 **HackAddis 2024 Winner** — VERSEWise, an AI-powered Biblical chatbot.
+- 🎓 **B.Sc. in Electrical and Computer Engineering** — Addis Ababa University, Class of 2025.
+- 📚 **Full-Stack JavaScript** — The Odin Project.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosisol&label=Profile%20views&color=0e75b6&style=flat" alt="eyosisol" /> </p>
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful software products, open-source projects, AI-powered applications, and ideas that combine software with engineering.
+
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=eyosisol" alt="eyosisol" />
-</a> </p>
+  <a href="https://github.com/EyosiSol">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/eyosias-solomon-lale-2b5080216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://eyosiassolomon.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:eyosila123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### **Contact Me**
+<p align="center">
+  <i>"Building at the intersection of code, creativity, and engineering."</i>
+</p>
 
-- **Email:** [eyosila123@gmail.com](mailto:eyosila123@gmail.com)
-- **LinkedIn:** [linkedin.com/in/eyosias-solomon-lale-2b5080216/](https://www.linkedin.com/in/eyosias-solomon-lale-2b5080216/)
-- **GitHub:** [github.com/EyosiSol](https://github.com/EyosiSol)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EyosiSol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EyosiSol&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&layout=compact&theme=radical)
-
----
-
-Let's make the web smarter, one project at a time!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EyosiSol/EyosiSol/output/snake.svg" alt="Snake animation" width="100%" />
+</p>
