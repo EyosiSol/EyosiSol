@@ -83,17 +83,6 @@ Explore my work across full-stack development, UI/UX design, and engineering. Vi
 
 ---
 
-## **Statstics**
-
-<div style={display:flex>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyosiSol&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-
-</div>
-
----
-
-
 ## 📊 GitHub at a Glance
 
 <p align="center">
