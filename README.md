@@ -10,15 +10,6 @@ I build thoughtful digital experiences by combining **software engineering, prod
 
 ---
 
-## **Statstics**
-
-<div style={display:flex>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyosiSol&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-
-</div>
----
-
 🌍 Addis Ababa, Ethiopia · 💻 Building for the web and beyond
 
 [🌐 Portfolio](https://eyosiassolomon.dev) · [💼 LinkedIn](https://www.linkedin.com/in/eyosias-solomon-lale/) · [📧 Email](mailto:eyosila123@gmail.com)· [📧 Email](mailto:eyosias.lale.official@gmail.com)
@@ -91,6 +82,17 @@ A web platform supporting an organization working to expand access to clean, aff
 Explore my work across full-stack development, UI/UX design, and engineering. Visit my portfolio for project details, technology choices, and available demos.
 
 ---
+
+## **Statstics**
+
+<div style={display:flex>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyosiSol&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyosiSol&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+
+</div>
+
+---
+
 
 ## 📊 GitHub at a Glance
 
