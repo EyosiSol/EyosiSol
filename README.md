@@ -137,6 +137,6 @@ I'm interested in collaborating on meaningful software products, open-source pro
   <img src="https://komarev.com/ghpvc/?username=EyosiSol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/EyosiSol/EyosiSol/output/snake.svg" alt="Snake animation" width="100%" />
-</p>
+</p> -->
